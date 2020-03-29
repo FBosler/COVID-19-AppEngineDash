@@ -1,0 +1,435 @@
+,Bundesland,Landkreis,Gruppe,Gruppe Overwrite,10-03,11-03,12-03,13-03,14-03,15-03,16-03,17-03,18-03,20-03,21-03,22-03,23-03,24-03,25-03,26-03,27-03,28-03
+0,Nordrhein-Westfalen,Aachen,Aachen,Aachen,2.0,2.0,22.0,31.0,35.0,55.0,,60.0,71.2,71.2,71.2,117.6,118.0,143.6,176.4,212.4,254.4,276.8
+1,Nordrhein-Westfalen,Aachen Städte,Aachen,Aachen,3.0,3.0,35.0,40.0,48.0,85.0,,90.0,106.8,106.8,106.8,176.4,177.0,215.4,264.6,318.6,381.6,415.2
+2,Sachsen-Anhalt,Anhalt-Zerbst,Anhalt-Bitterfeld,Anhalt-Bitterfeld,,,,1.0,1.0,1.0,,1.0,2.7,2.7,3.0,3.0,5.3,5.7,5.7,8.3,8.3,10.0
+3,Sachsen-Anhalt,Bitterfeld,Anhalt-Bitterfeld,Anhalt-Bitterfeld,,,,1.0,1.0,1.0,,1.0,2.7,2.7,3.0,3.0,5.3,5.7,5.7,8.3,8.3,10.0
+4,Sachsen-Anhalt,Köthen,Anhalt-Bitterfeld,Anhalt-Bitterfeld,,,,1.0,1.0,1.0,,1.0,2.7,2.7,3.0,3.0,5.3,5.7,5.7,8.3,8.3,10.0
+5,Sachsen,Bautzen,Bautzen,Bautzen,,2.0,5.0,5.0,7.0,7.0,,8.0,20.0,25.0,25.0,25.0,26.0,31.5,40.5,44.5,51.5,60.5
+6,Sachsen,Kamenz,Bautzen,Bautzen,,3.0,5.0,5.0,7.0,7.0,,8.0,20.0,25.0,25.0,25.0,26.0,31.5,40.5,44.5,51.5,60.5
+7,Sachsen-Anhalt,Bördekreis,Börde,Börde,,,1.0,1.0,1.0,1.0,,1.0,12.5,12.5,14.5,14.5,20.5,20.5,22.0,22.0,22.0,24.5
+8,Sachsen-Anhalt,Ohrekreis,Börde,Börde,,,2.0,2.0,2.0,2.0,,2.0,12.5,12.5,14.5,14.5,20.5,20.5,22.0,22.0,22.0,24.5
+9,Niedersachsen,Cuxhaven,Bremerhaven,Bremerhaven,2.0,3.0,3.0,3.0,4.0,10.0,,20.0,32.0,38.0,38.0,38.0,49.0,54.0,56.0,63.0,66.0,69.0
+10,Niedersachsen,Oldenburg,Delmenhost,Delmenhost,1.0,,1.0,4.0,8.0,8.0,,8.0,17.0,20.0,20.0,25.0,25.0,36.0,47.0,59.0,63.0,76.0
+11,Sachsen,Annaberg,Erzgebirgskreis,Erzgebirgskreis,,,,,1.0,1.0,,2.0,4.0,6.8,8.3,8.3,11.0,13.5,16.3,16.3,19.0,22.8
+12,Sachsen,Aue-Schwarzenberg,Erzgebirgskreis,Erzgebirgskreis,,,,,1.0,1.0,,2.0,4.0,6.8,8.3,8.3,11.0,13.5,16.3,16.3,19.0,22.8
+13,Sachsen,Mittlerer Erzgebirgskreis,Erzgebirgskreis,Erzgebirgskreis,,,,,1.0,1.0,,2.0,4.0,6.8,8.3,8.3,11.0,13.5,16.3,16.3,19.0,22.8
+14,Sachsen,Stollberg,Erzgebirgskreis,Erzgebirgskreis,,,,,1.0,1.0,,2.0,4.0,6.8,8.3,8.3,11.0,13.5,16.3,16.3,19.0,22.8
+15,Sachsen,Görlitz Städte,Görlitz,Görlitz,,,,,,,,3.0,3.3,4.0,4.0,4.0,4.0,10.0,11.7,11.7,18.7,20.7
+16,Sachsen,Löbau-Zittau,Görlitz,Görlitz,,,1.0,1.0,2.0,2.0,,3.0,3.3,4.0,4.0,4.0,4.0,10.0,11.7,11.7,18.7,20.7
+17,Sachsen,Niederschlesischer Oberlausitzkreis,Görlitz,Görlitz,,,1.0,1.0,2.0,3.0,,3.0,3.3,4.0,4.0,4.0,4.0,10.0,11.7,11.7,18.7,20.7
+18,Niedersachsen,Göttingen,Göttingen,Göttingen,,,,,1.5,1.5,,4.0,17.5,21.0,25.5,28.0,31.5,37.0,37.0,52.0,53.5,60.5
+19,Niedersachsen,Osterode,Göttingen,Göttingen,,,,,1.5,1.5,,4.0,17.5,21.0,25.5,28.0,31.5,37.0,37.0,52.0,53.5,60.5
+20,Sachsen-Anhalt,Halberstadt,Harz,Harz,,,,0.5,0.5,,,1.0,4.0,4.0,4.0,4.0,7.3,8.0,8.0,9.3,9.3,13.7
+21,Sachsen-Anhalt,Quedlinburg,Harz,Harz,,,,0.5,0.5,0.5,,1.0,4.0,4.0,4.0,4.0,7.3,8.0,8.0,9.3,9.3,13.7
+22,Sachsen-Anhalt,Wernigerode,Harz,Harz,,,,1.0,1.0,1.0,,1.0,4.0,4.0,4.0,4.0,7.3,8.0,8.0,9.3,9.3,13.7
+23,Sachsen,Leipziger Land,Leipzig,Leipzig,1.0,1.0,3.0,4.0,5.0,5.0,,8.0,13.5,15.5,15.5,15.5,22.0,24.5,29.0,34.5,38.5,38.5
+24,Sachsen,Muldentalkreis,Leipzig,Leipzig,,1.0,4.0,4.0,5.0,5.0,,8.0,13.5,15.5,15.5,15.5,22.0,24.5,29.0,34.5,38.5,38.5
+25,Mecklenburg-Vorpommern,Ludwigslust,Ludwigslust-Parchim,Ludwigslust-Parchim,,,,,,,,1.0,6.5,9.0,10.5,10.5,12.0,13.5,13.5,14.0,15.5,18.5
+26,Mecklenburg-Vorpommern,Parchim,Ludwigslust-Parchim,Ludwigslust-Parchim,,,,,,,,1.0,6.5,9.0,10.5,10.5,12.0,13.5,13.5,14.0,15.5,18.5
+27,Sachsen-Anhalt,Mansfelder Land,Masfeld-Südharz,Masfeld-Südharz,,,,1.0,1.0,1.0,,1.0,1.5,2.5,2.5,2.5,5.5,5.5,6.0,6.0,6.0,7.5
+28,Sachsen-Anhalt,Sangerhausen,Masfeld-Südharz,Masfeld-Südharz,,,,1.0,,,,1.0,1.5,2.5,2.5,2.5,5.5,5.5,6.0,6.0,6.0,7.5
+29,Mecklenburg-Vorpommern,Demmin,Mecklenburgische Seenplatten,Mecklenburgische Seenplatten,1.0,1.0,1.0,2.0,2.0,2.0,,2.0,5.0,5.8,5.8,5.8,7.5,9.0,10.0,10.3,11.5,14.0
+30,Mecklenburg-Vorpommern,Mecklenburg-Strelitz,Mecklenburgische Seenplatten,Mecklenburgische Seenplatten,1.0,1.0,1.0,1.0,1.0,1.0,,2.0,5.0,5.8,5.8,5.8,7.5,9.0,10.0,10.3,11.5,14.0
+31,Mecklenburg-Vorpommern,Müritz,Mecklenburgische Seenplatten,Mecklenburgische Seenplatten,1.0,1.0,2.0,2.0,2.0,2.0,,2.0,5.0,5.8,5.8,5.8,7.5,9.0,10.0,10.3,11.5,14.0
+32,Mecklenburg-Vorpommern,Neubrandenburg Städte,Mecklenburgische Seenplatten,Mecklenburgische Seenplatten,,1.0,2.0,2.0,2.0,2.0,,3.0,5.0,5.8,5.8,5.8,7.5,9.0,10.0,10.3,11.5,14.0
+33,Sachsen,Meißen,Meißen,Meißen,,,,2.0,4.0,4.0,,5.0,10.5,10.0,10.5,12.5,15.5,17.0,20.5,24.5,29.5,29.5
+34,Sachsen,Riesa-Großenhain,Meißen,Meißen,,,,3.0,5.0,5.0,,6.0,10.5,10.0,10.5,12.5,15.5,17.0,20.5,24.5,29.5,29.5
+35,Sachsen,Delitzsch,Nordsachsen,Nordsachsen,,,,1.0,1.0,1.0,,1.0,3.5,4.5,4.5,6.5,8.5,9.5,11.5,11.5,12.0,12.0
+36,Sachsen,Torgau-Oschatz,Nordsachsen,Nordsachsen,,,,1.0,1.0,1.0,,1.0,3.5,4.5,4.5,6.5,8.5,9.5,11.5,11.5,12.0,12.0
+37,Mecklenburg-Vorpommern,Nordwestmecklenburg,Nordwestmecklenburg,Nordwestmecklenburg,,,,,,,,1.0,7.5,8.5,8.5,8.5,9.0,10.5,12.0,12.0,12.5,14.0
+38,Mecklenburg-Vorpommern,Wismar Städte,Nordwestmecklenburg,Nordwestmecklenburg,,,,,,,,2.0,7.5,8.5,8.5,8.5,9.0,10.5,12.0,12.0,12.5,14.0
+39,Mecklenburg-Vorpommern,Bad Doberan,Rostock,Rostock,,1.0,1.0,3.0,4.0,4.0,,5.0,6.0,8.5,8.5,8.5,9.0,10.0,12.0,12.0,12.5,13.0
+40,Mecklenburg-Vorpommern,Güstrow,Rostock,Rostock,,1.0,2.0,3.0,4.0,4.0,,5.0,6.0,8.5,8.5,8.5,9.0,10.0,12.0,12.0,12.5,13.0
+41,Sachsen-Anhalt,Merseburg-Querfurt,Saalkreis,Saalkreis,,,1.0,1.0,1.0,1.0,,1.0,6.0,6.0,7.0,7.0,11.0,16.0,19.5,20.5,20.5,24.5
+42,Sachsen-Anhalt,Saalkreis,Saalkreis,Saalkreis,,1.0,1.0,1.0,1.0,1.0,,1.0,6.0,6.0,7.0,7.0,11.0,16.0,19.5,20.5,20.5,24.5
+43,Sachsen,Sächsische Schweiz,Sächsische Schweiz - Osterzgebirge,Sächsische Schweiz - Osterzgebirge,1.0,1.0,1.0,3.0,4.0,4.0,,6.0,14.0,20.0,20.5,20.5,35.5,41.5,44.5,53.5,56.0,68.0
+44,Sachsen,Weißeritzkreis,Sächsische Schweiz - Osterzgebirge,Sächsische Schweiz - Osterzgebirge,1.0,1.0,1.0,3.0,4.0,5.0,,7.0,14.0,20.0,20.5,20.5,35.5,41.5,44.5,53.5,56.0,68.0
+45,Sachsen-Anhalt,Aschersleben-Staßfurt,Salzlandkreis,Salzlandkreis,,,1.0,1.0,1.0,1.0,,1.0,3.7,4.3,4.3,4.3,9.0,9.0,9.7,11.0,11.0,12.3
+46,Sachsen-Anhalt,Bernburg,Salzlandkreis,Salzlandkreis,,,1.0,1.0,1.0,1.0,,1.0,3.7,4.3,4.3,4.3,9.0,9.0,9.7,11.0,11.0,12.3
+47,Sachsen-Anhalt,Schönebeck,Salzlandkreis,Salzlandkreis,,1.0,1.0,1.0,1.0,1.0,,1.0,3.7,4.3,4.3,4.3,9.0,9.0,9.7,11.0,11.0,12.3
+48,Sachsen,Plauen Städte,Vogtlandkreis,Vogtlandkreis,,,,,,,,1.0,5.0,8.0,8.0,8.0,8.0,16.0,31.0,31.0,43.5,46.5
+49,Sachsen,Vogtlandkreis,Vogtlandkreis,Vogtlandkreis,,,,,,,,1.0,5.0,8.0,8.0,8.0,8.0,16.0,31.0,31.0,43.5,46.5
+50,Mecklenburg-Vorpommern,Greifswald Städte,Vorpommern-Greifswald,Vorpommern-Greifswald,,,,,,1.0,,1.0,6.3,7.7,8.3,8.3,9.3,10.3,10.7,12.0,15.3,18.3
+51,Mecklenburg-Vorpommern,Ostvorpommern,Vorpommern-Greifswald,Vorpommern-Greifswald,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,6.3,7.7,8.3,8.3,9.3,10.3,10.7,12.0,15.3,18.3
+52,Mecklenburg-Vorpommern,Uecker-Randow,Vorpommern-Greifswald,Vorpommern-Greifswald,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,6.3,7.7,8.3,8.3,9.3,10.3,10.7,12.0,15.3,18.3
+53,Mecklenburg-Vorpommern,Nordvorpommern,Vorpommern-Rügen,Vorpommern-Rügen,1.0,1.0,1.0,2.0,2.0,2.0,,2.0,3.3,4.0,4.3,4.3,5.0,5.7,6.0,7.3,10.3,11.0
+54,Mecklenburg-Vorpommern,Rügen,Vorpommern-Rügen,Vorpommern-Rügen,1.0,1.0,1.0,2.0,2.0,2.0,,2.0,3.3,4.0,4.3,4.3,5.0,5.7,6.0,7.3,10.3,11.0
+55,Mecklenburg-Vorpommern,Stralsund Städte,Vorpommern-Rügen,Vorpommern-Rügen,,,,2.0,2.0,2.0,,2.0,3.3,4.0,4.3,4.3,5.0,5.7,6.0,7.3,10.3,11.0
+56,Sachsen-Anhalt,Burgenlandkreis,Burgenlandkreis,Burgenlandkreis,,,1.0,1.0,1.0,1.0,,3.0,7.0,7.0,7.5,7.5,8.5,8.5,9.5,12.0,12.0,13.0
+57,Sachsen-Anhalt,Weißenfels,Burgenlandkreis,Burgenlandkreis,,,1.0,1.0,1.0,1.0,,3.0,7.0,7.0,7.5,7.5,8.5,8.5,9.5,12.0,12.0,13.0
+58,Sachsen,Chemnitzer Land,Zwickau,Zwickau,,,,,1.0,1.0,,6.0,18.0,38.3,38.3,38.3,58.3,61.3,75.0,82.7,82.7,90.7
+59,Sachsen,Zwickau Städte,Zwickau,Zwickau,,,,,2.0,2.0,,6.0,18.0,38.3,38.3,38.3,58.3,61.3,75.0,82.7,82.7,90.7
+60,Sachsen,Zwickauer Land,Zwickau,Zwickau,,,,,1.0,1.0,,6.0,18.0,38.3,38.3,38.3,58.3,61.3,75.0,82.7,82.7,90.7
+61,Rheinland-Pfalz,Ahrweiler,,Ahrweiler,,,,2.0,3.0,3.0,,10.0,24.0,55.0,61.0,40.0,41.0,49.0,52.0,55.0,62.0,61.0
+62,Bayern,Aichach-Friedberg,,Aichach-Friedberg,,,,,,,,10.0,15.0,15.0,18.0,20.0,27.0,37.0,54.0,63.0,94.0,105.0
+63,Baden-Württemberg,Alb-Donau,,Alb-Donau,,1.0,6.0,6.0,6.0,6.0,,17.0,26.0,39.0,39.0,39.0,60.0,64.0,85.0,99.0,130.0,130.0
+64,Thüringen,Altenburger Land,,Altenburger Land,,,,,2.0,2.0,,2.0,5.0,4.0,6.0,7.0,7.0,15.0,16.0,16.0,18.0,19.0
+65,Rheinland-Pfalz,Altenkirchen,,Altenkirchen,,,,,,1.0,,3.0,9.0,4.0,4.0,8.0,10.0,12.0,16.0,19.0,30.0,30.0
+66,Bayern,Altötting,,Altötting,,,,,,,,,13.0,16.0,20.0,33.0,35.0,46.0,70.0,71.0,94.0,102.0
+67,Rheinland-Pfalz,Alzey-Worms,,Alzey-Worms,,,,2.0,2.0,2.0,,12.0,55.0,61.0,69.0,68.0,50.0,56.0,60.0,63.0,73.0,74.0
+68,Bayern,Amberg Städte,,Amberg Städte,,,,,1.0,1.0,,2.0,2.0,2.0,2.0,5.0,6.0,7.0,7.0,7.0,9.0,9.0
+69,Bayern,Amberg-Sulzbach,,Amberg-Sulzbach,,2.0,4.0,4.0,7.0,7.0,,13.0,18.0,18.0,18.0,27.0,31.0,36.0,44.0,47.0,56.0,56.0
+70,Bayern,Ansbach,,Ansbach,,,,,,,,,6.0,16.0,36.0,40.0,40.0,50.0,74.0,99.0,117.0,117.0
+71,Bayern,Ansbach Städte,,Ansbach Städte,,,,,,,,,3.0,3.0,3.0,3.0,6.0,6.0,10.0,14.0,17.0,17.0
+72,Bayern,Aschaffenburg,,Aschaffenburg,,,,2.0,2.0,2.0,,9.0,30.0,39.0,48.0,49.0,56.0,63.0,75.0,90.0,103.0,111.0
+73,Bayern,Aschaffenburg Städte,,Aschaffenburg Städte,,,,,2.0,2.0,,6.0,15.0,17.0,21.0,23.0,23.0,26.0,27.0,36.0,42.0,46.0
+74,Bayern,Augsburg,,Augsburg,,,,,26.0,26.0,,26.0,48.0,47.0,47.0,47.0,77.0,96.0,126.0,136.0,136.0,136.0
+75,Bayern,Augsburg Städte,,Augsburg Städte,,3.0,5.0,5.0,5.0,5.0,,9.0,25.0,38.0,38.0,43.0,60.0,70.0,83.0,83.0,113.0,113.0
+76,Rheinland-Pfalz,Bad Dürkheim,,Bad Dürkheim,4.0,4.0,6.0,7.0,8.0,14.0,,22.0,49.0,57.0,73.0,84.0,95.0,110.0,129.0,117.0,138.0,145.0
+77,Bayern,Bad Kissingen,,Bad Kissingen,1.0,1.0,3.0,3.0,3.0,3.0,,7.0,9.0,14.0,14.0,20.0,22.0,26.0,33.0,36.0,53.0,54.0
+78,Rheinland-Pfalz,Bad Kreuznach,,Bad Kreuznach,,,,,,13.0,,19.0,23.0,37.0,37.0,37.0,49.0,52.0,59.0,59.0,59.0,59.0
+79,Bayern,Bad Tölz-Wolfratshausen,,Bad Tölz-Wolfratshausen,,,2.0,2.0,2.0,8.0,,9.0,24.0,38.0,47.0,50.0,53.0,68.0,92.0,112.0,128.0,137.0
+80,Baden-Württemberg,Baden-Baden Städte,,Baden-Baden Städte,,2.0,3.0,3.0,3.0,3.0,,7.0,17.0,21.0,21.0,21.0,33.0,36.0,36.0,37.0,45.0,45.0
+81,Bayern,Bamberg,,Bamberg,,,,,4.0,7.0,,8.0,8.0,28.0,28.0,28.0,35.0,69.0,69.0,134.0,134.0,135.0
+82,Bayern,Bamberg Städte,,Bamberg Städte,,,,,,1.0,,2.0,2.0,2.0,2.0,6.0,17.0,23.0,23.0,54.0,54.0,54.0
+83,Brandenburg,Barnim,,Barnim,,,2.0,4.0,8.0,8.0,,10.0,21.0,29.0,37.0,38.0,40.0,47.0,51.0,57.0,62.0,66.0
+84,Bayern,Bayreuth,,Bayreuth,,4.0,4.0,5.0,5.0,5.0,,6.0,13.0,20.0,26.0,26.0,26.0,34.0,42.0,45.0,79.0,95.0
+85,Bayern,Bayreuth Städte,,Bayreuth Städte,,,,,,,,,1.0,4.0,6.0,6.0,6.0,8.0,18.0,20.0,35.0,46.0
+86,Bayern,Berchtesgadener Land,,Berchtesgadener Land,,,,,,,,3.0,1.0,6.0,6.0,6.0,6.0,36.0,44.0,55.0,61.0,65.0
+87,Hessen,Bergstraße,,Bergstraße,1.0,4.0,5.0,5.0,5.0,6.0,,16.0,33.0,38.0,38.0,38.0,67.0,91.0,101.0,112.0,132.0,132.0
+88,Berlin,Berlin,,Berlin,31.0,90.0,137.0,174.0,216.0,265.0,,345.0,731.0,866.0,1024.0,1077.0,1220.0,1428.0,1656.0,1955.0,2161.0,2360.0
+89,Rheinland-Pfalz,Bernkastel-Wittlich,,Bernkastel-Wittlich,,,3.0,3.0,4.0,4.0,,6.0,13.0,18.0,18.0,21.0,24.0,30.0,33.0,33.0,46.0,46.0
+90,Baden-Württemberg,Biberach,,Biberach,2.0,1.0,4.0,5.0,5.0,5.0,,11.0,45.0,45.0,45.0,45.0,74.0,82.0,106.0,144.0,182.0,182.0
+91,Nordrhein-Westfalen,Bielefeld Städte,,Bielefeld Städte,,1.0,1.0,1.0,11.0,11.0,,11.0,11.0,11.0,11.0,11.0,11.0,36.0,36.0,103.0,123.0,123.0
+92,Rheinland-Pfalz,Birkenfeld,,Birkenfeld,,,,,,,,1.0,4.0,5.0,5.0,5.0,11.0,16.0,17.0,18.0,23.0,29.0
+93,Rheinland-Pfalz,Bitburg-Prüm,,Bitburg-Prüm,1.0,1.0,1.0,4.0,6.0,6.0,,21.0,30.0,33.0,39.0,44.0,46.0,49.0,54.0,54.0,77.0,79.0
+94,Baden-Württemberg,Böblingen,,Böblingen,3.0,4.0,4.0,6.0,9.0,9.0,,28.0,28.0,67.0,67.0,67.0,187.0,224.0,233.0,263.0,333.0,333.0
+95,Nordrhein-Westfalen,Bochum Städte,,Bochum Städte,2.0,2.0,8.0,15.0,20.0,20.0,,24.0,34.0,34.0,34.0,94.0,112.0,125.0,139.0,156.0,172.0,186.0
+96,Baden-Württemberg,Bodensee,,Bodensee,1.0,1.0,4.0,8.0,8.0,8.0,,30.0,62.0,71.0,71.0,71.0,83.0,89.0,121.0,153.0,174.0,175.0
+97,Nordrhein-Westfalen,Bonn Städte,,Bonn Städte,3.0,6.0,12.0,13.0,15.0,17.0,,21.0,74.0,73.0,73.0,139.0,156.0,163.0,177.0,210.0,225.0,239.0
+98,Nordrhein-Westfalen,Borken,,Borken,5.0,6.0,6.0,11.0,16.0,16.0,,62.0,131.0,131.0,131.0,226.0,279.0,297.0,323.0,353.0,382.0,382.0
+99,Nordrhein-Westfalen,Bottrop Städte,,Bottrop Städte,,1.0,3.0,3.0,3.0,3.0,,4.0,9.0,9.0,9.0,12.0,12.0,13.0,15.0,16.0,16.0,16.0
+100,Brandenburg,Brandenburg an der Havel Städte,,Brandenburg an der Havel Städte,,,,,,,,,3.0,3.0,3.0,3.0,3.0,10.0,12.0,13.0,14.0,14.0
+101,Baden-Württemberg,Breisgau-Hochschwarzwald,,Breisgau-Hochschwarzwald,5.0,7.0,18.0,16.0,16.0,16.0,,53.0,100.0,133.0,133.0,133.0,177.0,196.0,222.0,257.0,276.0,276.0
+102,Bremen,Bremen Städte,,Bremen Städte,4.0,21.0,35.0,38.0,43.0,45.0,,49.0,106.0,127.0,150.0,155.0,168.0,185.0,194.0,224.0,243.0,255.0
+103,Baden-Württemberg,Calw,,Calw,2.0,7.0,11.0,12.0,15.0,15.0,,48.0,76.0,92.0,108.0,108.0,150.0,159.0,182.0,210.0,226.0,227.0
+104,Niedersachsen,Ammerland,,Ammerland,1.0,,1.0,4.0,5.0,5.0,,7.0,13.0,13.0,20.0,23.0,27.0,32.0,36.0,46.0,55.0,64.0
+105,Bayern,Cham,,Cham,,,,4.0,18.0,20.0,,21.0,24.0,41.0,41.0,41.0,52.0,51.0,67.0,67.0,91.0,111.0
+106,Nordrhein-Westfalen,Cleves,,Cleves,,1.0,4.0,6.0,13.0,13.0,,41.0,69.0,69.0,69.0,103.0,103.0,103.0,129.0,147.0,175.0,192.0
+107,Niedersachsen,Aurich,,Aurich,,1.0,1.0,1.0,3.0,5.0,,9.0,19.0,19.0,23.0,23.0,26.0,28.0,28.0,32.0,38.0,38.0
+108,Bayern,Coburg,,Coburg,,,,,3.0,3.0,,8.0,17.0,22.0,27.0,32.0,33.0,28.0,34.0,37.0,37.0,46.0
+109,Bayern,Coburg Städte,,Coburg Städte,,,,,,,,,0.0,0.0,0.0,0.0,0.0,10.0,13.0,14.0,14.0,16.0
+110,Rheinland-Pfalz,Cochem-Zell,,Cochem-Zell,,,,,3.0,6.0,,25.0,38.0,40.0,41.0,45.0,45.0,51.0,64.0,67.0,73.0,91.0
+111,Nordrhein-Westfalen,Coesfeld,,Coesfeld,,,22.0,28.0,38.0,43.0,,50.0,70.0,70.0,70.0,116.0,137.0,159.0,158.0,173.0,194.0,229.0
+112,Nordrhein-Westfalen,Cologne Städte,,Cologne Städte,3.0,3.0,7.0,10.0,11.0,17.0,,18.0,181.0,225.0,227.0,266.0,285.0,285.0,301.0,369.0,564.0,730.0
+113,Brandenburg,Cottbus Städte,,Cottbus Städte,,,3.0,8.0,12.0,13.0,,17.0,17.0,20.0,20.0,24.0,24.0,27.0,28.0,28.0,29.0,29.0
+114,Niedersachsen,Braunschweig Städte,,Braunschweig Städte,1.0,1.0,1.0,2.0,2.0,2.0,,7.0,12.0,12.0,25.0,29.0,54.0,56.0,72.0,79.0,93.0,108.0
+115,Bayern,Dachau,,Dachau,,,,,,,,14.0,45.0,45.0,45.0,68.0,75.0,88.0,132.0,151.0,170.0,170.0
+116,Brandenburg,Dahme-Spreewald,,Dahme-Spreewald,,,1.0,2.0,2.0,2.0,,3.0,12.0,16.0,16.0,16.0,18.0,28.0,33.0,39.0,53.0,60.0
+117,Hessen,Darmstadt Städte,,Darmstadt Städte,,,,,2.0,2.0,,8.0,14.0,23.0,23.0,27.0,27.0,28.0,38.0,48.0,57.0,57.0
+118,Hessen,Darmstadt-Dieburg,,Darmstadt-Dieburg,,,,3.0,4.0,4.0,,8.0,17.0,62.0,62.0,75.0,79.0,81.0,111.0,130.0,144.0,145.0
+119,Bayern,Deggendorf,,Deggendorf,,,1.0,1.0,1.0,1.0,,9.0,32.0,45.0,52.0,52.0,60.0,64.0,76.0,89.0,90.0,113.0
+120,Niedersachsen,Celle,,Celle,3.0,4.0,5.0,6.0,6.0,8.0,,12.0,24.0,26.0,28.0,29.0,29.0,43.0,50.0,52.0,61.0,69.0
+121,Bayern,Dillingen,,Dillingen,,,,,,,,,1.0,6.0,8.0,16.0,17.0,17.0,24.0,26.0,34.0,39.0
+122,Bayern,Dingolfing-Landau,,Dingolfing-Landau,1.0,3.0,5.0,7.0,8.0,10.0,,13.0,22.0,30.0,35.0,38.0,41.0,44.0,58.0,69.0,78.0,90.0
+123,Schleswig-Holstein,Dithmarschen,,Dithmarschen,1.0,1.0,1.0,1.0,1.0,1.0,,6.0,11.0,12.0,12.0,12.0,15.0,16.0,17.0,20.0,23.0,23.0
+124,Bayern,Donau-Ries,,Donau-Ries,,,2.0,2.0,2.0,2.0,,8.0,10.0,10.0,10.0,10.0,24.0,36.0,51.0,56.0,66.0,76.0
+125,Rheinland-Pfalz,Donnersbergkreis,,Donnersbergkreis,,,,2.0,2.0,2.0,,2.0,12.0,17.0,17.0,17.0,29.0,32.0,35.0,47.0,52.0,52.0
+126,Nordrhein-Westfalen,Dortmund Städte,,Dortmund Städte,2.0,4.0,6.0,6.0,6.0,6.0,,32.0,65.0,64.0,64.0,106.0,106.0,174.0,174.0,174.0,229.0,229.0
+127,Nordrhein-Westfalen,Duisburg Städte,,Duisburg Städte,3.0,3.0,9.0,10.0,14.0,14.0,,26.0,55.0,55.0,55.0,89.0,130.0,144.0,157.0,185.0,212.0,226.0
+128,Nordrhein-Westfalen,Düren,,Düren,4.0,4.0,8.0,8.0,14.0,20.0,,23.0,41.0,41.0,41.0,92.0,138.0,146.0,158.0,171.0,191.0,207.0
+129,Nordrhein-Westfalen,Düsseldorf Städte,,Düsseldorf Städte,3.0,5.0,7.0,7.0,23.0,23.0,,64.0,155.0,155.0,155.0,189.0,206.0,242.0,267.0,294.0,321.0,344.0
+130,Bayern,Ebersberg,,Ebersberg,7.0,10.0,12.0,18.0,17.0,20.0,,28.0,38.0,41.0,51.0,60.0,70.0,82.0,102.0,118.0,142.0,168.0
+131,Thüringen,Eichsfeld,,Eichsfeld,,,,,1.0,2.0,,2.0,3.0,7.0,7.0,17.0,18.0,28.0,31.0,37.0,40.0,47.0
+132,Bayern,Eichstätt,,Eichstätt,,,,,2.0,2.0,,2.0,13.0,15.0,24.0,25.0,25.0,35.0,38.0,48.0,52.0,71.0
+133,Brandenburg,Elbe-Elster,,Elbe-Elster,,2.0,3.0,5.0,5.0,5.0,,5.0,6.0,8.0,8.0,8.0,8.0,12.0,16.0,17.0,27.0,27.0
+134,Niedersachsen,Cloppenburg,,Cloppenburg,,,,1.0,1.0,1.0,,2.0,2.0,3.0,4.0,8.0,10.0,12.0,14.0,15.0,19.0,27.0
+135,Baden-Württemberg,Emmendingen,,Emmendingen,3.0,12.0,15.0,15.0,16.0,16.0,,42.0,98.0,109.0,109.0,109.0,122.0,140.0,153.0,170.0,191.0,191.0
+136,Niedersachsen,Diepholz,,Diepholz,,,8.0,16.0,18.0,19.0,,23.0,37.0,44.0,61.0,61.0,77.0,97.0,98.0,99.0,112.0,112.0
+137,Nordrhein-Westfalen,Ennepe-Ruhr,,Ennepe-Ruhr,,,,3.0,3.0,3.0,,3.0,11.0,11.0,11.0,18.0,28.0,31.0,32.0,32.0,37.0,37.0
+138,Baden-Württemberg,Enz,,Enz,1.0,2.0,2.0,3.0,2.0,2.0,,3.0,20.0,24.0,28.0,30.0,37.0,46.0,56.0,60.0,75.0,75.0
+139,Bayern,Erding,,Erding,,,3.0,3.0,9.0,9.0,,9.0,32.0,46.0,45.0,63.0,111.0,127.0,161.0,203.0,235.0,251.0
+140,Thüringen,Erfurt Städte,,Erfurt Städte,,2.0,2.0,2.0,4.0,8.0,,14.0,24.0,27.0,28.0,29.0,42.0,52.0,60.0,66.0,71.0,74.0
+141,Bayern,Erlangen Städte,,Erlangen Städte,3.0,3.0,6.0,5.0,5.0,6.0,,6.0,13.0,17.0,17.0,19.0,24.0,26.0,34.0,41.0,44.0,44.0
+142,Bayern,Erlangen-Höchstadt,,Erlangen-Höchstadt,3.0,4.0,7.0,9.0,9.0,10.0,,10.0,15.0,20.0,20.0,25.0,27.0,29.0,37.0,39.0,50.0,52.0
+143,Nordrhein-Westfalen,Essen Städte,,Essen Städte,,3.0,3.0,5.0,5.0,5.0,,58.0,58.0,58.0,58.0,135.0,213.0,249.0,249.0,292.0,349.0,349.0
+144,Baden-Württemberg,Esslingen,,Esslingen,16.0,22.0,47.0,52.0,65.0,65.0,,128.0,234.0,322.0,322.0,322.0,434.0,461.0,492.0,568.0,647.0,647.0
+145,Nordrhein-Westfalen,Euskirchen,,Euskirchen,,,,,4.0,4.0,,4.0,13.0,13.0,13.0,50.0,52.0,55.0,57.0,57.0,95.0,101.0
+146,Schleswig-Holstein,Flensburg Städte,,Flensburg Städte,,3.0,7.0,11.0,12.0,13.0,,4.0,10.0,12.0,13.0,13.0,13.0,14.0,14.0,18.0,19.0,21.0
+147,Bayern,Forchheim,,Forchheim,,,,3.0,3.0,3.0,,6.0,14.0,19.0,19.0,25.0,25.0,33.0,33.0,36.0,73.0,74.0
+148,Rheinland-Pfalz,Frankenthal Städte,,Frankenthal Städte,,,,,1.0,1.0,,1.0,8.0,10.0,11.0,11.0,11.0,12.0,12.0,12.0,13.0,16.0
+149,Hessen,Frankfurt am Main Städte,,Frankfurt am Main Städte,6.0,7.0,14.0,15.0,21.0,22.0,,51.0,114.0,148.0,148.0,164.0,196.0,196.0,241.0,241.0,309.0,309.0
+150,Brandenburg,Frankfurt am Oder Städte,,Frankfurt am Oder Städte,,,,,,,,,3.0,3.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0
+151,Baden-Württemberg,Freiburg,,Freiburg,4.0,10.0,15.0,18.0,18.0,18.0,,62.0,113.0,150.0,149.0,149.0,212.0,227.0,254.0,284.0,325.0,325.0
+152,Bayern,Freising,,Freising,36.0,37.0,51.0,51.0,51.0,74.0,,78.0,84.0,85.0,212.0,212.0,246.0,251.0,299.0,299.0,300.0,433.0
+153,Baden-Württemberg,Freudenstadt,,Freudenstadt,,1.0,1.0,2.0,2.0,2.0,,10.0,14.0,14.0,14.0,14.0,39.0,39.0,69.0,76.0,110.0,110.0
+154,Bayern,Freyung-Grafenau,,Freyung-Grafenau,,,,,,2.0,,4.0,7.0,13.0,13.0,19.0,19.0,32.0,32.0,39.0,54.0,82.0
+155,Niedersachsen,Emden Städte,,Emden Städte,,,1.0,3.0,3.0,3.0,,3.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0
+156,Hessen,Fulda,,Fulda,,2.0,5.0,7.0,9.0,29.0,,37.0,69.0,76.0,76.0,76.0,103.0,104.0,114.0,118.0,123.0,123.0
+157,Bayern,Fürstenfeldbruck,,Fürstenfeldbruck,3.0,4.0,6.0,6.0,9.0,11.0,,20.0,20.0,46.0,46.0,46.0,90.0,106.0,148.0,211.0,244.0,244.0
+158,Bayern,Fürth,,Fürth,,,2.0,2.0,3.0,3.0,,3.0,7.0,14.0,18.0,19.0,22.0,28.0,47.0,65.0,73.0,78.0
+159,Bayern,Fürth Städte,,Fürth Städte,,,5.0,6.0,7.0,8.0,,9.0,16.0,17.0,22.0,24.0,25.0,29.0,37.0,43.0,51.0,71.0
+160,Bayern,Garmisch-Partenkirchen,,Garmisch-Partenkirchen,1.0,2.0,2.0,2.0,2.0,2.0,,2.0,20.0,20.0,24.0,29.0,41.0,45.0,61.0,71.0,78.0,93.0
+161,Nordrhein-Westfalen,Gelsenkirchen Städte,,Gelsenkirchen Städte,2.0,2.0,3.0,3.0,7.0,7.0,,10.0,13.0,13.0,13.0,34.0,42.0,48.0,48.0,57.0,69.0,69.0
+162,Thüringen,Gera Städte,,Gera Städte,,1.0,1.0,1.0,1.0,1.0,,1.0,4.0,4.0,4.0,4.0,4.0,7.0,7.0,8.0,8.0,18.0
+163,Rheinland-Pfalz,Germersheim,,Germersheim,1.0,1.0,1.0,3.0,4.0,4.0,,8.0,20.0,25.0,25.0,28.0,30.0,35.0,41.0,46.0,51.0,56.0
+164,Hessen,Gießen,,Gießen,2.0,2.0,3.0,4.0,6.0,12.0,,15.0,37.0,37.0,56.0,60.0,67.0,72.0,94.0,98.0,99.0,99.0
+165,Niedersachsen,Emsland,,Emsland,,1.0,2.0,4.0,4.0,9.0,,19.0,30.0,30.0,57.0,60.0,64.0,74.0,85.0,99.0,110.0,129.0
+166,Baden-Württemberg,Göppingen,,Göppingen,2.0,3.0,5.0,14.0,23.0,23.0,,53.0,73.0,110.0,110.0,110.0,181.0,182.0,234.0,234.0,297.0,297.0
+167,Niedersachsen,Friesland,,Friesland,,2.0,2.0,2.0,2.0,2.0,,2.0,3.0,3.0,3.0,5.0,6.0,6.0,8.0,8.0,9.0,10.0
+168,Thüringen,Gotha,,Gotha,,,,,,,,1.0,4.0,4.0,4.0,4.0,13.0,16.0,17.0,20.0,20.0,20.0
+169,Niedersachsen,Gifhorn,,Gifhorn,,,,,5.0,7.0,,7.0,23.0,27.0,27.0,33.0,34.0,37.0,38.0,43.0,48.0,51.0
+170,Niedersachsen,Goslar,,Goslar,,,,,3.0,5.0,,7.0,14.0,18.0,18.0,21.0,22.0,24.0,30.0,36.0,45.0,51.0
+171,Thüringen,Greiz,,Greiz,,,,,,,,3.0,22.0,30.0,36.0,45.0,51.0,58.0,86.0,103.0,111.0,121.0
+172,Hessen,Groß-Gerau,,Groß-Gerau,1.0,1.0,1.0,2.0,2.0,2.0,,11.0,27.0,56.0,56.0,84.0,99.0,117.0,122.0,136.0,150.0,150.0
+173,Bayern,Günzburg,,Günzburg,,,,,,,,,3.0,12.0,12.0,12.0,12.0,13.0,13.0,42.0,57.0,57.0
+174,Nordrhein-Westfalen,Gütersloh,,Gütersloh,,,6.0,6.0,6.0,6.0,,46.0,100.0,101.0,101.0,140.0,172.0,190.0,209.0,233.0,252.0,271.0
+175,Nordrhein-Westfalen,Hagen Städte,,Hagen Städte,,3.0,3.0,3.0,5.0,5.0,,6.0,11.0,11.0,11.0,42.0,43.0,50.0,55.0,55.0,57.0,62.0
+176,Hamburg,Hamburg Städte,,Hamburg Städte,4.0,,60.0,99.0,119.0,162.0,,310.0,586.0,587.0,872.0,943.0,1043.0,1262.0,1265.0,1693.0,1765.0,1846.0
+177,Niedersachsen,Grafschaft Bentheim,,Grafschaft Bentheim,1.0,1.0,1.0,3.0,3.0,3.0,,5.0,14.0,21.0,29.0,29.0,29.0,35.0,45.0,52.0,59.0,78.0
+178,Nordrhein-Westfalen,Hamm Städte,,Hamm Städte,,,,,4.0,4.0,,8.0,16.0,16.0,16.0,61.0,83.0,91.0,96.0,111.0,119.0,133.0
+179,Niedersachsen,Hamelin-Pyrmont,,Hamelin-Pyrmont,,,,2.0,2.0,3.0,,7.0,13.0,18.0,23.0,26.0,26.0,27.0,30.0,32.0,36.0,44.0
+180,Niedersachsen,Hanover,,Hanover,6.0,7.0,14.0,15.0,24.0,52.0,,52.0,71.0,113.0,233.0,288.0,316.0,411.0,411.0,575.0,606.0,668.0
+181,Bayern,Haßberge,,Haßberge,,,1.0,3.0,5.0,6.0,,7.0,8.0,14.0,14.0,16.0,17.0,22.0,29.0,29.0,34.0,39.0
+182,Brandenburg,Havelland,,Havelland,2.0,2.0,2.0,2.0,3.0,4.0,,4.0,8.0,10.0,10.0,19.0,19.0,21.0,26.0,29.0,38.0,42.0
+183,Baden-Württemberg,Heidelberg Städte,,Heidelberg Städte,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,2.0,2.0,4.0,4.0,86.0,98.0,109.0,109.0,113.0,113.0
+184,Baden-Württemberg,Heidenheim,,Heidenheim,,,,4.0,4.0,4.0,,17.0,32.0,39.0,47.0,47.0,60.0,62.0,97.0,98.0,117.0,117.0
+185,Baden-Württemberg,Heilbronn,,Heilbronn,,,,,11.0,11.0,,56.0,109.0,117.0,139.0,139.0,196.0,211.0,235.0,268.0,330.0,330.0
+186,Baden-Württemberg,Heilbronn city Städte,,Heilbronn city Städte,,,,,1.0,2.0,,2.0,17.0,18.0,18.0,18.0,53.0,58.0,70.0,81.0,104.0,104.0
+187,Nordrhein-Westfalen,Heinsberg,,Heinsberg,250.0,290.0,372.0,451.0,515.0,609.0,,707.0,807.0,807.0,808.0,952.0,983.0,995.0,1023.0,1116.0,1144.0,1196.0
+188,Niedersachsen,Harburg,,Harburg,3.0,4.0,4.0,10.0,12.0,12.0,,12.0,39.0,52.0,67.0,72.0,72.0,90.0,90.0,120.0,139.0,139.0
+189,Nordrhein-Westfalen,Herford,,Herford,2.0,2.0,5.0,6.0,18.0,22.0,,25.0,35.0,35.0,35.0,98.0,98.0,102.0,110.0,119.0,124.0,139.0
+190,Nordrhein-Westfalen,Herne Städte,,Herne Städte,,,2.0,4.0,4.0,4.0,,6.0,6.0,6.0,6.0,16.0,16.0,21.0,21.0,33.0,41.0,44.0
+191,Hessen,Hersfeld-Rotenburg,,Hersfeld-Rotenburg,,,,,,,,12.0,16.0,21.0,25.0,26.0,26.0,28.0,28.0,28.0,32.0,32.0
+192,Thüringen,Hildburghausen,,Hildburghausen,,,,,,,,,0.0,1.0,1.0,1.0,1.0,2.0,3.0,6.0,6.0,7.0
+193,Niedersachsen,Helmstedt,,Helmstedt,,,,,,,,2.0,7.0,11.0,16.0,16.0,18.0,24.0,27.0,39.0,45.0,45.0
+194,Nordrhein-Westfalen,Hochsauerlandkreis,,Hochsauerlandkreis,,1.0,6.0,14.0,20.0,25.0,,37.0,60.0,60.0,60.0,123.0,123.0,139.0,155.0,182.0,205.0,212.0
+195,Hessen,Hochtaunuskreis,,Hochtaunuskreis,2.0,2.0,3.0,4.0,5.0,8.0,,19.0,44.0,51.0,51.0,68.0,71.0,75.0,107.0,110.0,127.0,127.0
+196,Bayern,Hof,,Hof,,1.0,1.0,1.0,1.0,3.0,,4.0,14.0,19.0,30.0,33.0,41.0,48.0,55.0,63.0,76.0,89.0
+197,Bayern,Hof Städte,,Hof Städte,,,1.0,1.0,1.0,1.0,,2.0,8.0,8.0,10.0,11.0,12.0,13.0,15.0,19.0,24.0,26.0
+198,Baden-Württemberg,Hohenlohe,,Hohenlohe,2.0,6.0,8.0,8.0,8.0,8.0,,48.0,155.0,183.0,219.0,219.0,256.0,278.0,278.0,285.0,350.0,350.0
+199,Niedersachsen,Hildesheim,,Hildesheim,1.0,3.0,3.0,5.0,7.0,10.0,,16.0,34.0,33.0,35.0,69.0,92.0,99.0,110.0,116.0,125.0,131.0
+200,Nordrhein-Westfalen,Höxter,,Höxter,,,,,,,,2.0,2.0,2.0,2.0,2.0,20.0,20.0,33.0,39.0,54.0,54.0
+201,Thüringen,Ilm-Kreis,,Ilm-Kreis,,1.0,1.0,1.0,1.0,1.0,,1.0,3.0,5.0,7.0,7.0,8.0,13.0,17.0,24.0,24.0,32.0
+202,Bayern,Ingolstadt Städte,,Ingolstadt Städte,1.0,1.0,1.0,1.0,1.0,1.0,,2.0,4.0,5.0,5.0,5.0,12.0,14.0,26.0,29.0,33.0,71.0
+203,Thüringen,Jena Städte,,Jena Städte,,,,,,,,,13.0,13.0,21.0,21.0,55.0,55.0,55.0,61.0,61.0,101.0
+204,Rheinland-Pfalz,Kaiserslautern,,Kaiserslautern,,,2.0,2.0,3.0,4.0,,9.0,12.0,13.0,14.0,21.0,30.0,33.0,43.0,43.0,46.0,50.0
+205,Rheinland-Pfalz,Kaiserslautern Städte,,Kaiserslautern Städte,4.0,4.0,5.0,6.0,6.0,6.0,,11.0,13.0,14.0,14.0,19.0,29.0,34.0,46.0,46.0,49.0,52.0
+206,Baden-Württemberg,Karlsruhe,,Karlsruhe,,,,7.0,7.0,15.0,,39.0,71.0,92.0,92.0,92.0,150.0,168.0,186.0,204.0,227.0,227.0
+207,Baden-Württemberg,Karlsruhe Städte,,Karlsruhe Städte,,,,3.0,3.0,7.0,,25.0,34.0,42.0,42.0,42.0,60.0,75.0,86.0,99.0,110.0,110.0
+208,Hessen,Kassel,,Kassel,1.0,1.0,2.0,3.0,6.0,12.0,,13.0,35.0,38.0,39.0,44.0,45.0,49.0,59.0,73.0,75.0,75.0
+209,Hessen,Kassel Städte,,Kassel Städte,,,,3.0,8.0,9.0,,11.0,34.0,39.0,43.0,43.0,44.0,48.0,61.0,65.0,73.0,73.0
+210,Bayern,Kaufbeuren Städte,,Kaufbeuren Städte,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,18.0,30.0
+211,Bayern,Kelheim,,Kelheim,2.0,2.0,2.0,2.0,3.0,5.0,,6.0,18.0,28.0,42.0,50.0,56.0,62.0,76.0,89.0,105.0,126.0
+212,Bayern,Kempten Städte,,Kempten Städte,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,29.0,29.0,34.0,37.0
+213,Schleswig-Holstein,Kiel Städte,,Kiel Städte,,,7.0,11.0,12.0,13.0,,18.0,34.0,36.0,39.0,41.0,52.0,63.0,63.0,75.0,75.0,99.0
+214,Bayern,Kitzingen,,Kitzingen,,,,,2.0,3.0,,4.0,6.0,6.0,7.0,9.0,12.0,12.0,16.0,21.0,27.0,27.0
+215,Rheinland-Pfalz,Koblenz Coblenz Städte,,Koblenz Coblenz Städte,5.0,6.0,6.0,8.0,8.0,8.0,,21.0,33.0,36.0,49.0,57.0,62.0,67.0,85.0,96.0,97.0,105.0
+216,Baden-Württemberg,Konstanz,,Konstanz,,,2.0,7.0,7.0,7.0,,28.0,43.0,52.0,52.0,52.0,70.0,81.0,89.0,109.0,124.0,124.0
+217,Nordrhein-Westfalen,Krefeld Städte,,Krefeld Städte,,,2.0,2.0,2.0,2.0,,22.0,41.0,41.0,41.0,56.0,68.0,86.0,91.0,104.0,121.0,135.0
+218,Bayern,Kronach,,Kronach,,,,,1.0,2.0,,3.0,4.0,13.0,13.0,16.0,16.0,24.0,26.0,32.0,41.0,41.0
+219,Bayern,Kulmbach,,Kulmbach,,,,,,,,,11.0,13.0,13.0,17.0,21.0,28.0,35.0,50.0,61.0,61.0
+220,Rheinland-Pfalz,Kusel,,Kusel,,,,1.0,1.0,13.0,,14.0,18.0,19.0,19.0,21.0,24.0,29.0,32.0,32.0,36.0,36.0
+221,Thüringen,Kyffhäuserkreis,,Kyffhäuserkreis,,2.0,3.0,5.0,6.0,6.0,,8.0,9.0,11.0,11.0,12.0,12.0,15.0,17.0,17.0,17.0,19.0
+222,Hessen,Lahn-Dill-Kreis,,Lahn-Dill-Kreis,2.0,4.0,4.0,5.0,9.0,9.0,,16.0,23.0,32.0,47.0,65.0,82.0,82.0,96.0,116.0,116.0,116.0
+223,Rheinland-Pfalz,Landau Städte,,Landau Städte,,,,,,,,1.0,2.0,5.0,5.0,5.0,7.0,12.0,14.0,16.0,25.0,26.0
+224,Bayern,Landsberg,,Landsberg,1.0,1.0,2.0,2.0,2.0,3.0,,6.0,15.0,17.0,18.0,22.0,47.0,53.0,68.0,100.0,109.0,123.0
+225,Bayern,Landshut,,Landshut,,,,2.0,2.0,4.0,,8.0,57.0,68.0,68.0,108.0,113.0,134.0,153.0,200.0,206.0,225.0
+226,Bayern,Landshut Städte,,Landshut Städte,,,,1.0,1.0,1.0,,4.0,24.0,28.0,28.0,38.0,38.0,42.0,46.0,73.0,74.0,77.0
+227,Schleswig-Holstein,Lauenburg,,Lauenburg,1.0,3.0,3.0,3.0,4.0,4.0,,8.0,21.0,21.0,21.0,21.0,42.0,49.0,53.0,69.0,78.0,78.0
+228,Niedersachsen,Holzminden,,Holzminden,,,,1.0,1.0,1.0,,4.0,14.0,19.0,21.0,26.0,30.0,30.0,34.0,36.0,39.0,44.0
+229,Nordrhein-Westfalen,Leverkusen Städte,,Leverkusen Städte,,,1.0,5.0,5.0,8.0,,8.0,29.0,29.0,29.0,34.0,34.0,49.0,49.0,49.0,71.0,79.0
+230,Bayern,Lichtenfels,,Lichtenfels,,,,,,,,3.0,7.0,7.0,20.0,21.0,23.0,27.0,39.0,48.0,57.0,69.0
+231,Hessen,Limburg-Weilburg,,Limburg-Weilburg,,,,,,,,5.0,35.0,44.0,56.0,58.0,80.0,97.0,115.0,119.0,139.0,139.0
+232,Bayern,Lindau,,Lindau,5.0,6.0,6.0,8.0,12.0,12.0,,19.0,25.0,34.0,36.0,47.0,50.0,52.0,66.0,93.0,93.0,100.0
+233,Nordrhein-Westfalen,Lippe,,Lippe,1.0,9.0,21.0,32.0,37.0,37.0,,56.0,103.0,103.0,103.0,134.0,145.0,162.0,179.0,214.0,220.0,247.0
+234,Baden-Württemberg,Lörrach,,Lörrach,1.0,1.0,1.0,4.0,6.0,6.0,,16.0,41.0,57.0,57.0,57.0,57.0,101.0,136.0,147.0,162.0,162.0
+235,Schleswig-Holstein,Lübeck Städte,,Lübeck Städte,,2.0,7.0,8.0,9.0,9.0,,15.0,20.0,21.0,21.0,21.0,36.0,44.0,62.0,68.0,70.0,71.0
+236,Niedersachsen,Leer,,Leer,1.0,1.0,1.0,1.0,1.0,1.0,,3.0,9.0,11.0,11.0,12.0,13.0,13.0,13.0,19.0,23.0,23.0
+237,Baden-Württemberg,Ludwigsburg,,Ludwigsburg,4.0,11.0,19.0,19.0,25.0,25.0,,88.0,127.0,176.0,176.0,176.0,251.0,276.0,353.0,409.0,544.0,544.0
+238,Rheinland-Pfalz,Ludwigshafen Städte,,Ludwigshafen Städte,,,1.0,1.0,1.0,1.0,,6.0,12.0,17.0,17.0,17.0,17.0,25.0,31.0,37.0,45.0,54.0
+239,Niedersachsen,Lüchow-Dannenberg,,Lüchow-Dannenberg,,,,,,,,,0.0,5.0,5.0,5.0,5.0,6.0,7.0,7.0,8.0,8.0
+240,Hessen,Main-Kinzig-Kreis,,Main-Kinzig-Kreis,1.0,1.0,1.0,8.0,12.0,18.0,,31.0,40.0,50.0,50.0,57.0,57.0,81.0,105.0,112.0,116.0,116.0
+241,Bayern,Main-Spessart,,Main-Spessart,,1.0,1.0,1.0,4.0,5.0,,7.0,11.0,11.0,13.0,14.0,14.0,18.0,26.0,36.0,49.0,54.0
+242,Baden-Württemberg,Main-Tauber,,Main-Tauber,2.0,14.0,24.0,28.0,28.0,29.0,,32.0,35.0,36.0,36.0,36.0,53.0,53.0,58.0,67.0,74.0,74.0
+243,Hessen,Main-Taunus-Kreis Städte,,Main-Taunus-Kreis Städte,,,3.0,4.0,11.0,11.0,,15.0,27.0,39.0,53.0,54.0,66.0,66.0,88.0,88.0,98.0,98.0
+244,Rheinland-Pfalz,Mainz Städte,,Mainz Städte,1.0,1.0,3.0,11.0,11.0,11.0,,28.0,45.0,58.0,63.0,82.0,86.0,94.0,106.0,121.0,125.0,144.0
+245,Rheinland-Pfalz,Mainz-Bingen,,Mainz-Bingen,1.0,1.0,3.0,10.0,11.0,18.0,,20.0,30.0,38.0,47.0,55.0,58.0,67.0,79.0,86.0,96.0,115.0
+246,Baden-Württemberg,Mannheim Städte,,Mannheim Städte,6.0,10.0,12.0,12.0,22.0,22.0,,28.0,74.0,81.0,81.0,81.0,81.0,136.0,146.0,161.0,169.0,169.0
+247,Hessen,Marburg-Biedenkopf,,Marburg-Biedenkopf,,,7.0,7.0,8.0,8.0,,19.0,29.0,35.0,35.0,48.0,62.0,62.0,82.0,91.0,97.0,97.0
+248,Brandenburg,Märkisch-Oderland,,Märkisch-Oderland,,,2.0,5.0,5.0,5.0,,5.0,20.0,23.0,23.0,23.0,49.0,53.0,55.0,60.0,75.0,93.0
+249,Nordrhein-Westfalen,Märkischer Kreis,,Märkischer Kreis,5.0,6.0,10.0,12.0,13.0,13.0,,20.0,31.0,31.0,31.0,38.0,47.0,47.0,54.0,72.0,80.0,88.0
+250,Rheinland-Pfalz,Mayen-Koblenz,,Mayen-Koblenz,,2.0,4.0,7.0,10.0,11.0,,62.0,102.0,105.0,120.0,136.0,151.0,159.0,181.0,198.0,198.0,215.0
+251,Bayern,Memmingen Städte,,Memmingen Städte,,,,,1.0,1.0,,3.0,9.0,14.0,16.0,16.0,18.0,21.0,23.0,23.0,26.0,26.0
+252,Saarland,Merzig-Wadern,,Merzig-Wadern,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,20.0,23.0,27.0,35.0,39.0,39.0
+253,Nordrhein-Westfalen,Mettmann,,Mettmann,5.0,5.0,10.0,16.0,16.0,16.0,,28.0,72.0,72.0,72.0,110.0,172.0,197.0,219.0,246.0,253.0,269.0
+254,Bayern,Miesbach,,Miesbach,1.0,1.0,1.0,1.0,1.0,15.0,,32.0,47.0,61.0,108.0,108.0,136.0,158.0,189.0,189.0,212.0,270.0
+255,Bayern,Miltenberg,,Miltenberg,,,,1.0,2.0,4.0,,5.0,19.0,19.0,28.0,43.0,50.0,54.0,60.0,64.0,76.0,76.0
+256,Nordrhein-Westfalen,Minden-Lübbecke,,Minden-Lübbecke,,3.0,10.0,10.0,14.0,34.0,,74.0,111.0,111.0,111.0,141.0,154.0,177.0,199.0,214.0,230.0,230.0
+257,Nordrhein-Westfalen,Mönchengladbach Städte,,Mönchengladbach Städte,,,8.0,8.0,18.0,36.0,,35.0,35.0,35.0,35.0,77.0,77.0,106.0,118.0,123.0,147.0,164.0
+258,Bayern,Mühldorf,,Mühldorf,,,,,,,,1.0,16.0,16.0,33.0,38.0,41.0,57.0,71.0,77.0,103.0,122.0
+259,Nordrhein-Westfalen,Mülheim Städte,,Mülheim Städte,,,,5.0,8.0,8.0,,10.0,17.0,17.0,17.0,34.0,34.0,45.0,51.0,51.0,52.0,61.0
+260,Bayern,München,,München,1.0,1.0,6.0,16.0,27.0,32.0,,60.0,135.0,194.0,220.0,239.0,239.0,308.0,368.0,407.0,407.0,513.0
+261,Bayern,Munich Städte,,Munich Städte,43.0,60.0,92.0,107.0,143.0,183.0,,194.0,584.0,584.0,584.0,1231.0,1312.0,1312.0,1556.0,1662.0,1829.0,2066.0
+262,Nordrhein-Westfalen,Münster Städte,,Münster Städte,3.0,6.0,10.0,17.0,17.0,17.0,,67.0,124.0,124.0,124.0,230.0,262.0,291.0,311.0,360.0,387.0,403.0
+263,Baden-Württemberg,Neckar-Odenwald-Kreis,,Neckar-Odenwald-Kreis,,,1.0,1.0,3.0,3.0,,7.0,24.0,30.0,30.0,30.0,40.0,45.0,50.0,50.0,73.0,73.0
+264,Bayern,Neu-Ulm,,Neu-Ulm,,,3.0,3.0,8.0,10.0,,10.0,20.0,29.0,50.0,60.0,60.0,71.0,84.0,84.0,112.0,126.0
+265,Bayern,Neuburg-Schrobenhausen,,Neuburg-Schrobenhausen,,,,,,,,,7.0,21.0,27.0,27.0,28.0,40.0,48.0,51.0,51.0,69.0
+266,Bayern,Neumarkt,,Neumarkt,,,2.0,2.0,2.0,5.0,,9.0,18.0,18.0,18.0,18.0,35.0,35.0,43.0,43.0,69.0,69.0
+267,Schleswig-Holstein,Neumünster Städte,,Neumünster Städte,,,,,,,,1.0,1.0,1.0,7.0,7.0,10.0,12.0,13.0,13.0,15.0,15.0
+268,Saarland,Neunkirchen,,Neunkirchen,1.0,2.0,2.0,2.0,2.0,2.0,,6.0,22.0,25.0,25.0,25.0,47.0,47.0,49.0,67.0,78.0,78.0
+269,Bayern,Neustadt,,Neustadt,,,,1.0,1.0,1.0,,1.0,3.0,3.0,26.0,29.0,32.0,56.0,71.0,98.0,124.0,149.0
+270,Rheinland-Pfalz,Neustadt Städte,,Neustadt Städte,1.0,1.0,1.0,1.0,1.0,1.0,,4.0,7.0,7.0,10.0,11.0,12.0,16.0,17.0,39.0,44.0,44.0
+271,Bayern,Neustadt-Bad Windsheim,,Neustadt-Bad Windsheim,,4.0,4.0,4.0,4.0,4.0,,4.0,5.0,9.0,9.0,13.0,15.0,18.0,25.0,28.0,35.0,50.0
+272,Rheinland-Pfalz,Neuwied,,Neuwied,,,1.0,8.0,10.0,10.0,,30.0,47.0,58.0,58.0,58.0,80.0,85.0,105.0,109.0,121.0,121.0
+273,Niedersachsen,Lüneburg,,Lüneburg,,,,1.0,1.0,1.0,,3.0,27.0,49.0,49.0,57.0,58.0,62.0,67.0,71.0,75.0,81.0
+274,Schleswig-Holstein,Nordfriesland,,Nordfriesland,,,,,,,,,11.0,15.0,17.0,18.0,20.0,23.0,23.0,29.0,35.0,39.0
+275,Thüringen,Nordhausen,,Nordhausen,,,,,2.0,2.0,,2.0,2.0,3.0,3.0,3.0,5.0,6.0,7.0,9.0,10.0,11.0
+276,Niedersachsen,Nienburg,,Nienburg,,,1.0,2.0,2.0,2.0,,5.0,8.0,12.0,14.0,15.0,17.0,18.0,21.0,24.0,24.0,24.0
+277,Bayern,Nuremberg Städte,,Nuremberg Städte,4.0,13.0,14.0,19.0,21.0,24.0,,27.0,61.0,67.0,67.0,67.0,99.0,131.0,167.0,182.0,192.0,220.0
+278,Bayern,Nürnberger Land,,Nürnberger Land,,,,2.0,1.0,2.0,,6.0,7.0,40.0,39.0,47.0,68.0,81.0,94.0,94.0,144.0,144.0
+279,Bayern,Oberallgäu,,Oberallgäu,,,,6.0,8.0,24.0,,33.0,47.0,52.0,61.0,61.0,66.0,80.0,64.0,64.0,77.0,86.0
+280,Nordrhein-Westfalen,Oberbergischer Kreis,,Oberbergischer Kreis,,3.0,10.0,12.0,13.0,13.0,,13.0,50.0,50.0,50.0,71.0,94.0,94.0,116.0,133.0,161.0,170.0
+281,Nordrhein-Westfalen,Oberhausen Städte,,Oberhausen Städte,,,,,,,,,11.0,11.0,11.0,35.0,37.0,37.0,39.0,43.0,54.0,56.0
+282,Brandenburg,Oberhavel,,Oberhavel,1.0,1.0,1.0,1.0,2.0,2.0,,5.0,14.0,23.0,32.0,32.0,32.0,36.0,51.0,53.0,69.0,84.0
+283,Brandenburg,Oberspreewald-Lausitz,,Oberspreewald-Lausitz,,2.0,2.0,2.0,2.0,2.0,,4.0,5.0,5.0,5.0,5.0,10.0,10.0,12.0,12.0,13.0,15.0
+284,Hessen,Odenwaldkreis,,Odenwaldkreis,,,,,,2.0,,2.0,8.0,15.0,17.0,23.0,24.0,27.0,33.0,46.0,47.0,47.0
+285,Brandenburg,Oder-Spree,,Oder-Spree,,1.0,3.0,3.0,4.0,6.0,,10.0,23.0,32.0,32.0,32.0,42.0,45.0,45.0,49.0,49.0,71.0
+286,Hessen,Offenbach,,Offenbach,,,1.0,4.0,4.0,7.0,,16.0,32.0,44.0,64.0,77.0,92.0,94.0,120.0,121.0,140.0,140.0
+287,Hessen,Offenbach am Main Städte,,Offenbach am Main Städte,,1.0,1.0,1.0,1.0,1.0,,4.0,4.0,6.0,6.0,9.0,9.0,14.0,18.0,18.0,21.0,21.0
+288,Niedersachsen,Northeim,,Northeim,,,,4.0,4.0,4.0,,4.0,6.0,12.0,12.0,13.0,18.0,21.0,22.0,25.0,28.0,28.0
+289,Nordrhein-Westfalen,Olpe,,Olpe,,,,,,,,,9.0,9.0,9.0,17.0,19.0,19.0,29.0,39.0,82.0,89.0
+290,Baden-Württemberg,Ortenaukreis,,Ortenaukreis,4.0,12.0,13.0,13.0,16.0,17.0,,39.0,57.0,74.0,74.0,74.0,107.0,123.0,138.0,164.0,199.0,199.0
+291,Niedersachsen,Oldenburg Städte,,Oldenburg Städte,,,,1.0,10.0,10.0,,14.0,17.0,21.0,28.0,28.0,39.0,52.0,52.0,57.0,70.0,70.0
+292,Niedersachsen,Osnabrück,,Osnabrück,,,,,,,,,58.0,64.0,64.0,64.0,102.0,157.0,182.0,218.0,241.0,254.0
+293,Baden-Württemberg,Ostalbkreis,,Ostalbkreis,3.0,4.0,6.0,6.0,12.0,16.0,,40.0,84.0,90.0,90.0,90.0,120.0,139.0,170.0,224.0,236.0,236.0
+294,Bayern,Ostallgäu,,Ostallgäu,3.0,3.0,3.0,5.0,5.0,5.0,,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,80.0,98.0,122.0
+295,Niedersachsen,Osnabrück Städte,,Osnabrück Städte,,,,,,,,,58.0,75.0,75.0,75.0,103.0,135.0,149.0,168.0,173.0,182.0
+296,Niedersachsen,Osterholz,,Osterholz,,2.0,5.0,9.0,12.0,12.0,,13.0,19.0,23.0,23.0,23.0,23.0,25.0,31.0,35.0,38.0,39.0
+297,Schleswig-Holstein,Ostholstein,,Ostholstein,,1.0,1.0,1.0,1.0,1.0,,1.0,11.0,11.0,12.0,12.0,15.0,18.0,22.0,23.0,23.0,23.0
+298,Brandenburg,Ostprignitz-Ruppin,,Ostprignitz-Ruppin,,,,,,,,,6.0,6.0,7.0,7.0,7.0,7.0,7.0,9.0,11.0,13.0
+299,Nordrhein-Westfalen,Paderborn,,Paderborn,,,4.0,7.0,14.0,14.0,,14.0,36.0,36.0,36.0,58.0,74.0,81.0,97.0,105.0,117.0,117.0
+300,Bayern,Passau,,Passau,3.0,3.0,4.0,4.0,5.0,15.0,,15.0,23.0,25.0,25.0,36.0,36.0,40.0,46.0,61.0,78.0,90.0
+301,Bayern,Passau Städte,,Passau Städte,,,,,,2.0,,2.0,5.0,6.0,6.0,14.0,14.0,17.0,19.0,19.0,24.0,33.0
+302,Niedersachsen,Peine,,Peine,,,,,3.0,,,2.0,9.0,13.0,16.0,20.0,21.0,23.0,25.0,25.0,40.0,47.0
+303,Bayern,Pfaffenhofen,,Pfaffenhofen,,2.0,4.0,4.0,6.0,6.0,,9.0,18.0,18.0,18.0,18.0,31.0,31.0,50.0,52.0,65.0,92.0
+304,Baden-Württemberg,Pforzheim Städte,,Pforzheim Städte,,3.0,3.0,4.0,4.0,4.0,,4.0,10.0,13.0,14.0,14.0,17.0,18.0,19.0,20.0,24.0,24.0
+305,Schleswig-Holstein,Pinneberg,,Pinneberg,2.0,2.0,3.0,6.0,7.0,18.0,,28.0,47.0,62.0,77.0,78.0,80.0,89.0,125.0,151.0,170.0,186.0
+306,Schleswig-Holstein,Plön,,Plön,,,,2.0,2.0,5.0,,8.0,11.0,12.0,12.0,19.0,23.0,31.0,38.0,45.0,50.0,54.0
+307,Brandenburg,Potsdam Städte,,Potsdam Städte,,,,,,,,,10.0,22.0,22.0,22.0,22.0,41.0,47.0,57.0,63.0,63.0
+308,Brandenburg,Potsdam-Mittelmark,,Potsdam-Mittelmark,,,1.0,3.0,3.0,3.0,,4.0,10.0,12.0,12.0,12.0,12.0,28.0,28.0,40.0,48.0,50.0
+309,Brandenburg,Prignitz,,Prignitz,,,,,,,,,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4.0,5.0,5.0
+310,Baden-Württemberg,Rastatt,,Rastatt,,3.0,11.0,11.0,12.0,12.0,,34.0,64.0,81.0,81.0,81.0,146.0,156.0,180.0,182.0,222.0,222.0
+311,Baden-Württemberg,Ravensburg,,Ravensburg,,1.0,4.0,5.0,8.0,8.0,,14.0,85.0,107.0,107.0,107.0,124.0,173.0,252.0,254.0,303.0,303.0
+312,Nordrhein-Westfalen,Recklinghausen,,Recklinghausen,,1.0,4.0,7.0,13.0,14.0,,43.0,73.0,72.0,72.0,96.0,93.0,135.0,146.0,146.0,158.0,224.0
+313,Bayern,Regen,,Regen,,,,3.0,5.0,6.0,,18.0,23.0,24.0,25.0,25.0,25.0,34.0,39.0,40.0,40.0,40.0
+314,Bayern,Regensburg,,Regensburg,,2.0,2.0,4.0,4.0,4.0,,4.0,14.0,18.0,27.0,37.0,71.0,78.0,86.0,101.0,112.0,130.0
+315,Bayern,Regensburg Städte,,Regensburg Städte,,,,1.0,3.0,6.0,,6.0,7.0,20.0,24.0,32.0,74.0,80.0,96.0,110.0,125.0,133.0
+316,Baden-Württemberg,Rems-Murr-Kreis,,Rems-Murr-Kreis,3.0,5.0,11.0,18.0,23.0,24.0,,39.0,73.0,118.0,118.0,118.0,118.0,173.0,194.0,233.0,292.0,295.0
+317,Nordrhein-Westfalen,Remscheid Städte,,Remscheid Städte,,,5.0,5.0,5.0,8.0,,9.0,13.0,13.0,13.0,30.0,30.0,32.0,34.0,34.0,43.0,52.0
+318,Schleswig-Holstein,Rendsburg-Eckernförde,,Rendsburg-Eckernförde,,,1.0,6.0,7.0,8.0,,13.0,25.0,30.0,33.0,37.0,46.0,56.0,73.0,89.0,99.0,111.0
+319,Baden-Württemberg,Reutlingen,,Reutlingen,,,3.0,3.0,9.0,9.0,,31.0,43.0,94.0,95.0,95.0,113.0,116.0,166.0,199.0,234.0,235.0
+320,Nordrhein-Westfalen,Rhein-Erft-Kreis,,Rhein-Erft-Kreis,,,7.0,5.0,5.0,5.0,,18.0,48.0,48.0,48.0,63.0,63.0,130.0,148.0,178.0,197.0,202.0
+321,Rheinland-Pfalz,Rhein-Hunsrück,,Rhein-Hunsrück,,2.0,4.0,6.0,7.0,7.0,,24.0,35.0,37.0,45.0,50.0,50.0,77.0,86.0,93.0,105.0,114.0
+322,Nordrhein-Westfalen,Rhein-Kreis Neuss,,Rhein-Kreis Neuss,2.0,2.0,6.0,7.0,9.0,10.0,,21.0,38.0,38.0,38.0,118.0,139.0,150.0,193.0,224.0,266.0,282.0
+323,Rheinland-Pfalz,Rhein-Lahn,,Rhein-Lahn,,,4.0,5.0,6.0,6.0,,10.0,27.0,32.0,33.0,34.0,45.0,48.0,51.0,61.0,68.0,72.0
+324,Baden-Württemberg,Rhein-Neckar-Kreis,,Rhein-Neckar-Kreis,1.0,1.0,1.0,8.0,8.0,8.0,,55.0,140.0,208.0,232.0,233.0,271.0,317.0,355.0,363.0,401.0,404.0
+325,Rheinland-Pfalz,Rhein-Pfalz-Kreis,,Rhein-Pfalz-Kreis,,,,1.0,1.0,1.0,,2.0,7.0,9.0,9.0,9.0,9.0,34.0,39.0,41.0,44.0,60.0
+326,Nordrhein-Westfalen,Rhein-Sieg,,Rhein-Sieg,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,29.0,30.0,30.0,51.0,51.0,51.0,51.0,348.0,396.0,396.0
+327,Hessen,Rheingau-Taunus-Kreis,,Rheingau-Taunus-Kreis,,,3.0,6.0,11.0,18.0,,19.0,21.0,31.0,31.0,31.0,47.0,47.0,64.0,64.0,87.0,87.0
+328,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,,Rheinisch-Bergischer Kreis,,,14.0,14.0,29.0,30.0,,40.0,48.0,48.0,48.0,76.0,108.0,118.0,137.0,140.0,162.0,162.0
+329,Bayern,Rhön-Grabfeld,,Rhön-Grabfeld,,,,1.0,1.0,2.0,,3.0,8.0,11.0,12.0,16.0,17.0,22.0,25.0,31.0,31.0,35.0
+330,Sachsen,Chemnitz Städte,,Chemnitz Städte,,3.0,3.0,3.0,6.0,6.0,,13.0,26.0,37.0,41.0,50.0,54.0,57.0,63.0,70.0,72.0,86.0
+331,Bayern,Rosenheim,,Rosenheim,1.0,1.0,3.0,3.0,18.0,18.0,,36.0,65.0,100.0,193.0,216.0,226.0,254.0,304.0,358.0,564.0,691.0
+332,Bayern,Rosenheim Städte,,Rosenheim Städte,,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,8.0,48.0,49.0,53.0,60.0,71.0,108.0,119.0
+333,Niedersachsen,Rotenburg,,Rotenburg,2.0,4.0,5.0,5.0,5.0,5.0,,12.0,20.0,21.0,24.0,26.0,28.0,30.0,32.0,38.0,43.0,44.0
+334,Bayern,Roth,,Roth,1.0,1.0,1.0,3.0,3.0,4.0,,5.0,9.0,11.0,13.0,13.0,22.0,25.0,27.0,57.0,65.0,83.0
+335,Bayern,Rottal-Inn,,Rottal-Inn,,,2.0,6.0,10.0,14.0,,14.0,50.0,55.0,55.0,78.0,79.0,92.0,124.0,169.0,191.0,207.0
+336,Baden-Württemberg,Rottweil,,Rottweil,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,6.0,7.0,10.0,10.0,10.0,11.0,30.0,63.0,89.0,89.0
+337,Thüringen,Saale-Holzland,,Saale-Holzland,,1.0,1.0,3.0,3.0,3.0,,3.0,12.0,13.0,16.0,17.0,17.0,17.0,20.0,21.0,22.0,27.0
+338,Thüringen,Saale-Orla,,Saale-Orla,1.0,3.0,3.0,3.0,3.0,3.0,,3.0,6.0,7.0,7.0,7.0,8.0,8.0,10.0,11.0,15.0,27.0
+339,Thüringen,Saalfeld-Rudolstadt,,Saalfeld-Rudolstadt,,,,,5.0,5.0,,5.0,11.0,12.0,16.0,16.0,16.0,19.0,24.0,24.0,32.0,32.0
+340,Sachsen-Anhalt,Altmarkkreis Salzwedel,,Altmarkkreis Salzwedel,,,,,,,,1.0,3.0,3.0,3.0,3.0,4.0,9.0,10.0,10.0,10.0,12.0
+341,Saarland,Saarbrücken Städte,,Saarbrücken Städte,,,,10.0,10.0,10.0,,22.0,63.0,80.0,80.0,80.0,117.0,159.0,167.0,190.0,190.0,190.0
+342,Saarland,Saarlouis,,Saarlouis,,1.0,2.0,4.0,4.0,5.0,,14.0,22.0,24.0,24.0,37.0,50.0,56.0,59.0,69.0,83.0,93.0
+343,Saarland,Saarpfalz,,Saarpfalz,,2.0,3.0,3.0,3.0,3.0,,15.0,15.0,28.0,28.0,28.0,61.0,72.0,77.0,90.0,97.0,97.0
+344,Sachsen,Döbeln,Mittelsachsen,Mittelsachsen,,,,,,,,,5.3,8.0,8.0,8.0,11.7,14.0,16.7,19.7,22.0,27.0
+345,Niedersachsen,Salzgitter Städte,,Salzgitter Städte,,,,1.0,1.0,2.0,,2.0,6.0,8.0,16.0,22.0,24.0,26.0,30.0,33.0,42.0,44.0
+346,Sachsen-Anhalt,Dessau Städte,,Dessau Städte,,,,,,,,,5.0,5.0,5.0,5.0,12.0,14.0,16.0,16.0,16.0,20.0
+347,Saarland,Sankt Wendel,,Sankt Wendel,,,,10.0,11.0,11.0,,17.0,23.0,29.0,29.0,29.0,42.0,46.0,54.0,54.0,63.0,63.0
+348,Niedersachsen,Schaumburg,,Schaumburg,,,1.0,1.0,1.0,1.0,,1.0,17.0,21.0,25.0,27.0,27.0,30.0,35.0,35.0,46.0,51.0
+349,Schleswig-Holstein,Schleswig-Flensburg,,Schleswig-Flensburg,,,1.0,4.0,5.0,11.0,,17.0,23.0,24.0,25.0,28.0,29.0,35.0,37.0,46.0,56.0,65.0
+350,Thüringen,Schmalkalden-Meiningen,,Schmalkalden-Meiningen,,,,,1.0,1.0,,1.0,9.0,13.0,13.0,13.0,14.0,17.0,19.0,22.0,27.0,27.0
+351,Sachsen-Anhalt,Halle Städte,,Halle Städte,,2.0,2.0,7.0,12.0,12.0,,19.0,40.0,44.0,43.0,43.0,77.0,81.0,86.0,95.0,95.0,122.0
+352,Bayern,Schwabach Städte,,Schwabach Städte,1.0,1.0,1.0,1.0,1.0,1.0,,2.0,8.0,8.0,8.0,8.0,9.0,9.0,11.0,16.0,16.0,24.0
+353,Baden-Württemberg,Schwäbisch Hall,,Schwäbisch Hall,,,,3.0,14.0,14.0,,33.0,60.0,97.0,97.0,97.0,149.0,152.0,179.0,179.0,257.0,257.0
+354,Hessen,Schwalm-Eder-Kreis,,Schwalm-Eder-Kreis,,,,3.0,5.0,13.0,,15.0,54.0,56.0,58.0,69.0,75.0,75.0,93.0,93.0,108.0,108.0
+355,Bayern,Schwandorf,,Schwandorf,,,,,,,,,0.0,0.0,0.0,0.0,38.0,39.0,40.0,40.0,74.0,87.0
+356,Baden-Württemberg,Schwarzwald-Baar-Kreis,,Schwarzwald-Baar-Kreis,,1.0,1.0,1.0,3.0,3.0,,15.0,28.0,37.0,45.0,46.0,76.0,79.0,125.0,129.0,140.0,141.0
+357,Bayern,Schweinfurt,,Schweinfurt,,,2.0,2.0,4.0,4.0,,4.0,4.0,4.0,4.0,20.0,39.0,51.0,57.0,72.0,72.0,79.0
+358,Bayern,Schweinfurt Städte,,Schweinfurt Städte,,,,,,,,,0.0,0.0,0.0,3.0,7.0,11.0,13.0,19.0,19.0,27.0
+359,Schleswig-Holstein,Segeberg,,Segeberg,2.0,2.0,3.0,3.0,4.0,6.0,,10.0,22.0,27.0,29.0,30.0,30.0,41.0,41.0,47.0,61.0,71.0
+360,Nordrhein-Westfalen,Siegen-Wittgenstein,,Siegen-Wittgenstein,,,,2.0,2.0,10.0,,15.0,15.0,15.0,15.0,15.0,15.0,51.0,60.0,61.0,79.0,89.0
+361,Baden-Württemberg,Sigmaringen,,Sigmaringen,1.0,1.0,4.0,4.0,6.0,6.0,,22.0,41.0,67.0,82.0,82.0,99.0,123.0,161.0,172.0,235.0,235.0
+362,Nordrhein-Westfalen,Soest,,Soest,,,3.0,3.0,3.0,9.0,,9.0,9.0,12.0,12.0,91.0,93.0,110.0,121.0,135.0,153.0,153.0
+363,Nordrhein-Westfalen,Solingen Städte,,Solingen Städte,,,3.0,5.0,5.0,7.0,,9.0,9.0,9.0,9.0,34.0,38.0,38.0,38.0,62.0,69.0,81.0
+364,Niedersachsen,Soltau-Fallingbostel,,Soltau-Fallingbostel,,,,,,1.0,,1.0,1.0,4.0,4.0,4.0,7.0,10.0,10.0,15.0,21.0,21.0
+365,Thüringen,Sömmerda,,Sömmerda,,,,,,,,,1.0,2.0,3.0,6.0,8.0,8.0,13.0,19.0,21.0,22.0
+366,Thüringen,Sonneberg,,Sonneberg,,,,,,,,,,,0.0,6.0,6.0,8.0,9.0,13.0,15.0,19.0
+367,Rheinland-Pfalz,Speyer Spires Städte,,Speyer Spires Städte,,,,,,2.0,,2.0,8.0,7.0,7.0,7.0,7.0,13.0,12.0,14.0,14.0,22.0
+368,Brandenburg,Spree-Neiße,,Spree-Neiße,,2.0,3.0,3.0,4.0,4.0,,4.0,24.0,25.0,25.0,25.0,25.0,31.0,32.0,32.0,38.0,38.0
+369,Niedersachsen,Stade,,Stade,2.0,11.0,13.0,14.0,17.0,17.0,,22.0,33.0,44.0,44.0,44.0,67.0,74.0,85.0,85.0,104.0,105.0
+370,Bayern,Starnberg,,Starnberg,9.0,12.0,14.0,16.0,34.0,42.0,,45.0,69.0,83.0,83.0,110.0,110.0,110.0,110.0,135.0,224.0,244.0
+371,Schleswig-Holstein,Steinburg,,Steinburg,,,,,2.0,6.0,,28.0,7.0,12.0,12.0,12.0,19.0,20.0,22.0,27.0,36.0,36.0
+372,Nordrhein-Westfalen,Steinfurt,,Steinfurt,,1.0,2.0,2.0,2.0,2.0,,21.0,100.0,100.0,100.0,157.0,157.0,200.0,231.0,245.0,304.0,304.0
+373,Sachsen-Anhalt,Jerichower Land,,Jerichower Land,,1.0,1.0,1.0,1.0,1.0,,1.0,3.0,3.0,4.0,4.0,7.0,10.0,12.0,13.0,13.0,16.0
+374,Sachsen,Dresden Städte,,Dresden Städte,2.0,4.0,4.0,6.0,11.0,11.0,,22.0,50.0,65.0,84.0,99.0,99.0,131.0,131.0,202.0,202.0,245.0
+375,Schleswig-Holstein,Stormarn,,Stormarn,,,,,,,,,12.0,12.0,17.0,34.0,48.0,66.0,72.0,92.0,105.0,113.0
+376,Bayern,Straubing Städte,,Straubing Städte,,1.0,1.0,2.0,3.0,4.0,,6.0,19.0,20.0,30.0,33.0,40.0,42.0,50.0,50.0,69.0,69.0
+377,Bayern,Straubing-Bogen,,Straubing-Bogen,,,1.0,1.0,2.0,2.0,,3.0,20.0,20.0,29.0,40.0,49.0,50.0,56.0,56.0,72.0,75.0
+378,Baden-Württemberg,Stuttgart Städte,,Stuttgart Städte,11.0,19.0,35.0,35.0,40.0,40.0,,151.0,196.0,308.0,308.0,308.0,441.0,451.0,503.0,526.0,633.0,633.0
+379,Rheinland-Pfalz,Südliche Weinstraße,,Südliche Weinstraße,,1.0,1.0,1.0,1.0,1.0,,21.0,24.0,26.0,30.0,31.0,33.0,36.0,44.0,48.0,62.0,64.0
+380,Rheinland-Pfalz,Südwestpfalz,,Südwestpfalz,,,,,,,,1.0,3.0,12.0,12.0,16.0,24.0,27.0,30.0,40.0,45.0,45.0
+381,Thüringen,Suhl Städte,,Suhl Städte,,,,,,,,1.0,1.0,2.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,6.0
+382,Brandenburg,Teltow-Fläming,,Teltow-Fläming,,1.0,1.0,1.0,2.0,2.0,,2.0,6.0,13.0,13.0,13.0,22.0,22.0,22.0,27.0,37.0,37.0
+383,Bayern,Tirschenreuth,,Tirschenreuth,,1.0,3.0,5.0,9.0,17.0,,27.0,44.0,65.0,111.0,148.0,148.0,178.0,209.0,251.0,252.0,398.0
+384,Sachsen,Freiberg,Mittelsachsen,Mittelsachsen,,,,,,,,,5.3,8.0,8.0,8.0,11.7,14.0,16.7,19.7,22.0,27.0
+385,Bayern,Traunstein,,Traunstein,4.0,4.0,4.0,4.0,8.0,10.0,,13.0,33.0,39.0,44.0,62.0,79.0,86.0,121.0,144.0,164.0,194.0
+386,Rheinland-Pfalz,Trier Städte,,Trier Städte,,,,3.0,3.0,3.0,,6.0,10.0,11.0,11.0,14.0,18.0,21.0,22.0,23.0,29.0,37.0
+387,Rheinland-Pfalz,Trier-Saarburg,,Trier-Saarburg,,,,,,,,8.0,15.0,19.0,21.0,28.0,30.0,38.0,40.0,45.0,48.0,50.0
+388,Baden-Württemberg,Tübingen,,Tübingen,2.0,3.0,9.0,9.0,9.0,9.0,,67.0,93.0,114.0,114.0,114.0,153.0,170.0,331.0,386.0,541.0,544.0
+389,Baden-Württemberg,Tuttlingen,,Tuttlingen,,,,,,,,5.0,10.0,13.0,13.0,13.0,15.0,32.0,40.0,74.0,85.0,85.0
+390,Brandenburg,Uckermark,,Uckermark,,,,5.0,,,,,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,8.0,8.0
+391,Mecklenburg-Vorpommern,Rostock Städte,,Rostock Städte,,,,,,5.0,,5.0,20.0,22.0,23.0,23.0,28.0,28.0,33.0,37.0,48.0,53.0
+392,Niedersachsen,Uelzen,,Uelzen,,,1.0,1.0,1.0,1.0,,1.0,3.0,5.0,7.0,7.0,11.0,11.0,11.0,14.0,14.0,17.0
+393,Baden-Württemberg,Ulm Städte,,Ulm Städte,,2.0,5.0,5.0,5.0,5.0,,12.0,21.0,35.0,35.0,35.0,53.0,58.0,72.0,81.0,89.0,89.0
+394,Nordrhein-Westfalen,Unna,,Unna,1.0,1.0,1.0,1.0,11.0,11.0,,15.0,15.0,15.0,15.0,41.0,41.0,79.0,108.0,115.0,141.0,143.0
+395,Thüringen,Unstrut-Hainich,,Unstrut-Hainich,,,,,,,,,5.0,5.0,5.0,5.0,6.0,7.0,7.0,10.0,10.0,10.0
+396,Bayern,Unterallgäu,,Unterallgäu,,,,,1.0,1.0,,18.0,20.0,22.0,22.0,22.0,22.0,31.0,34.0,38.0,69.0,85.0
+397,Niedersachsen,Vechta,,Vechta,,,,2.0,2.0,3.0,,6.0,22.0,33.0,41.0,47.0,59.0,62.0,92.0,95.0,123.0,128.0
+398,Niedersachsen,Verden,,Verden,,2.0,3.0,7.0,8.0,8.0,,11.0,22.0,22.0,25.0,26.0,26.0,36.0,37.0,42.0,47.0,49.0
+399,Nordrhein-Westfalen,Viersen,,Viersen,,,2.0,2.0,8.0,8.0,,13.0,39.0,39.0,39.0,58.0,58.0,62.0,74.0,85.0,107.0,107.0
+400,Hessen,Vogelsbergkreis,,Vogelsbergkreis,1.0,1.0,2.0,2.0,5.0,3.0,,4.0,15.0,17.0,17.0,25.0,28.0,29.0,36.0,39.0,45.0,45.0
+401,Sachsen,Leipzig Städte,,Leipzig Städte,1.0,2.0,4.0,6.0,16.0,19.0,,52.0,93.0,121.0,129.0,144.0,161.0,181.0,218.0,227.0,250.0,270.0
+402,Rheinland-Pfalz,Vulkaneifel,,Vulkaneifel,,2.0,3.0,3.0,3.0,3.0,,10.0,17.0,22.0,28.0,28.0,29.0,29.0,31.0,32.0,35.0,39.0
+403,Hessen,Waldeck-Frankenberg,,Waldeck-Frankenberg,1.0,1.0,3.0,4.0,4.0,6.0,,6.0,26.0,29.0,29.0,29.0,34.0,39.0,42.0,45.0,47.0,47.0
+404,Baden-Württemberg,Waldshut,,Waldshut,,,,,1.0,1.0,,4.0,5.0,13.0,13.0,13.0,25.0,40.0,48.0,51.0,61.0,61.0
+405,Nordrhein-Westfalen,Warendorf,,Warendorf,,3.0,7.0,10.0,26.0,37.0,,50.0,83.0,83.0,83.0,169.0,173.0,189.0,218.0,242.0,268.0,268.0
+406,Thüringen,Wartburgkreis,,Wartburgkreis,,,,,,1.0,,1.0,3.0,5.0,5.0,5.0,10.0,11.0,11.0,11.0,11.0,13.0
+407,Bayern,Weiden Städte,,Weiden Städte,,,,4.0,4.0,6.0,,7.0,7.0,7.0,20.0,20.0,22.0,31.0,40.0,47.0,55.0,61.0
+408,Bayern,Weilheim-Schongau,,Weilheim-Schongau,,,8.0,8.0,8.0,12.0,,16.0,47.0,56.0,78.0,92.0,95.0,95.0,127.0,145.0,161.0,183.0
+409,Thüringen,Weimar Städte,,Weimar Städte,,,1.0,1.0,1.0,1.0,,2.0,7.0,10.0,10.0,10.0,10.0,13.0,19.0,22.0,23.0,24.0
+410,Thüringen,Weimarer Land,,Weimarer Land,,,,,,,,1.0,5.0,9.0,9.0,10.0,12.0,14.0,15.0,17.0,17.0,21.0
+411,Bayern,Weißenburg-Gunzenhausen,,Weißenburg-Gunzenhausen,,,1.0,2.0,2.0,2.0,,2.0,8.0,8.0,12.0,20.0,24.0,28.0,35.0,48.0,70.0,79.0
+412,Sachsen-Anhalt,Magdeburg Städte,,Magdeburg Städte,,1.0,4.0,6.0,11.0,11.0,,16.0,29.0,29.0,39.0,39.0,39.0,56.0,57.0,61.0,61.0,71.0
+413,Sachsen,Mittweida,Mittelsachsen,Mittelsachsen,,,,,,,,,5.3,8.0,8.0,8.0,11.7,14.0,16.7,19.7,22.0,27.0
+414,Sachsen-Anhalt,Stendal,,Stendal,,,,,,,,1.0,7.0,7.0,9.0,10.0,10.0,12.0,21.0,24.0,24.0,39.0
+415,Hessen,Werra-Meißner-Kreis,,Werra-Meißner-Kreis,,,,,,,,1.0,2.0,3.0,3.0,5.0,5.0,9.0,13.0,14.0,14.0,14.0
+416,Nordrhein-Westfalen,Wesel,,Wesel,1.0,1.0,3.0,11.0,18.0,18.0,,35.0,66.0,66.0,66.0,108.0,132.0,146.0,161.0,161.0,192.0,192.0
+417,Niedersachsen,Wesermarsch,,Wesermarsch,,,,,,,,,4.0,5.0,5.0,8.0,9.0,10.0,10.0,24.0,31.0,38.0
+418,Rheinland-Pfalz,Westerwaldkreis,,Westerwaldkreis,,,1.0,2.0,2.0,6.0,,22.0,48.0,52.0,60.0,60.0,84.0,92.0,94.0,101.0,113.0,123.0
+419,Hessen,Wetteraukreis,,Wetteraukreis,,,,,1.0,1.0,,13.0,26.0,38.0,40.0,40.0,44.0,44.0,66.0,74.0,77.0,77.0
+420,Hessen,Wiesbaden Städte,,Wiesbaden Städte,,1.0,1.0,4.0,4.0,4.0,,6.0,31.0,52.0,52.0,52.0,91.0,99.0,110.0,124.0,131.0,131.0
+421,Niedersachsen,Wilhelmshaven Städte,,Wilhelmshaven Städte,,2.0,2.0,2.0,2.0,2.0,,3.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0
+422,Mecklenburg-Vorpommern,Schwerin Städte,,Schwerin Städte,,,,1.0,1.0,4.0,,7.0,22.0,33.0,33.0,33.0,38.0,38.0,46.0,47.0,56.0,60.0
+423,Sachsen-Anhalt,Wittenberg,,Wittenberg,,,,2.0,2.0,2.0,,2.0,8.0,8.0,11.0,11.0,16.0,24.0,32.0,32.0,32.0,65.0
+424,Niedersachsen,Wittmund,,Wittmund,,,1.0,1.0,1.0,1.0,,3.0,3.0,4.0,4.0,5.0,6.0,6.0,7.0,9.0,12.0,13.0
+425,Niedersachsen,Wolfenbüttel,,Wolfenbüttel,,,,,,,,,3.0,3.0,3.0,3.0,7.0,16.0,20.0,21.0,27.0,32.0
+426,Niedersachsen,Wolfsburg Städte,,Wolfsburg Städte,,,,,2.0,3.0,,3.0,8.0,9.0,15.0,18.0,28.0,30.0,30.0,49.0,49.0,85.0
+427,Rheinland-Pfalz,Worms Städte,,Worms Städte,,,,,,,,,1.0,2.0,4.0,8.0,41.0,47.0,52.0,55.0,61.0,61.0
+428,Bayern,Wunsiedel,,Wunsiedel,,,,,,,,3.0,15.0,21.0,46.0,51.0,51.0,64.0,69.0,81.0,108.0,151.0
+429,Nordrhein-Westfalen,Wuppertal Städte,,Wuppertal Städte,,,,2.0,2.0,2.0,,21.0,38.0,37.0,37.0,65.0,67.0,78.0,89.0,98.0,111.0,175.0
+430,Bayern,Würzburg,,Würzburg,,1.0,1.0,2.0,3.0,7.0,,9.0,9.0,10.0,10.0,28.0,82.0,99.0,115.0,139.0,161.0,163.0
+431,Bayern,Würzburg Städte,,Würzburg Städte,1.0,4.0,4.0,5.0,5.0,9.0,,12.0,14.0,18.0,18.0,26.0,54.0,57.0,68.0,196.0,207.0,229.0
+432,Baden-Württemberg,Zollernalbkreis,,Zollernalbkreis,11.0,17.0,21.0,21.0,21.0,21.0,,33.0,60.0,70.0,70.0,70.0,109.0,151.0,184.0,219.0,232.0,232.0
+433,Rheinland-Pfalz,Zweibrücken Städte,,Zweibrücken Städte,,,,,,,,,0.0,1.0,1.0,2.0,3.0,4.0,4.0,5.0,9.0,9.0
